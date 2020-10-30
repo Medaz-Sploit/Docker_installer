@@ -1,4 +1,4 @@
 # Docker_installer
 Usage:
 
-./install_docker.sh <your username>
+./install_docker.sh \<your username \>
